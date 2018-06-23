@@ -4,6 +4,7 @@ from discord import Game
 from discord.ext.commands import Bot
 import datetime
 import pytz
+import os
 tz = pytz.timezone('Asia/Bangkok')
 
 
